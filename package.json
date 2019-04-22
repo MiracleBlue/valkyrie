@@ -1,0 +1,8 @@
+{
+  "name": "valkyrie",
+  "version": "0.0.1",
+  "description": "Functional Web-Components with React",
+  "main": "index.js",
+  "author": "Nicholas Kircher <MiracleBlue@users.noreply.github.com>",
+  "license": "MIT"
+}
